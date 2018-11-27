@@ -1,2 +1,3 @@
 name: Simon Hölscher
 markdown: kramdown
+permalink: /:title/
